@@ -1,4 +1,4 @@
 # Majid-demo
 This is my first Repository
 </br>
-Author - Mohammed Majid
+Author - M Majid
